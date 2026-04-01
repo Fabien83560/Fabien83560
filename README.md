@@ -24,9 +24,9 @@ Bienvenue sur mon espace GitHub ! Ici, vous trouverez mes projets, contributions
 
 ## 📈 Statistiques GitHub
 
-![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Fabien83560&show_icons=true&theme=radical)
+![Mes Statistiques GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Fabien83560&show_icons=true&theme=radical)
 
-![Langages les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabien83560&layout=compact&theme=radical)
+![Langages les plus utilisées](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fabien83560&layout=compact&theme=radical)
 
 ---
 
